@@ -2,9 +2,8 @@
 👩🏽‍🎓 A high school student aspiring to work in Tech<br/> <br/> 
 👩🏽‍💻 16-year-old student passionate about coding<br/> <br/> 
 🌹 Learning Java and SQL currently<br/> <br/> 
-🎓 Planning to study Computer Science at UOFT or UBC<br/> <br/> 
-🎥 I'm interested in Python, Game Design, Web Design, Data Analytics, and Cybersecurity<br/><br/> 
-📖 Starting a research project about underprivileged children in South Africa<br/><br/> 
+🎓 Planning to study Computer Science <br/> <br/> 
+🎥 I'm interested in Front-End, Back-End and Artificial Intelligence  <br/><br/> 
 
 
 ## 🌐 Socials:
