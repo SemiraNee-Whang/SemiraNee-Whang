@@ -3,7 +3,7 @@
 👩🏽‍💻 16-year-old student passionate about coding<br/> <br/> 
 🌹 Learning Java and SQL currently<br/> <br/> 
 🎓 Planning to study Computer Science <br/> <br/> 
-🎥 I'm interested in Front-End, Back-End and Artificial Intelligence  <br/><br/> 
+🎥 I'm interested in Front-End, Game Design and UI/UX Design  <br/><br/> 
 
 
 ## 🌐 Socials:
