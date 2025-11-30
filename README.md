@@ -25,7 +25,7 @@ This is a simulation of a **Water Management System**, developed as part of my G
 
 You can view the project on GitHub [here](https://github.com/SemiraNee-Whang/Water-Managment).
 
-
+---
 
 ### ✍️ Some Cool Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
