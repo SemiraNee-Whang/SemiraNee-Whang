@@ -29,6 +29,10 @@ The project demonstrates practical skills in:
 🔗 **View the project on GitHub:** [Water Management System Repository](https://github.com/SemiraNee-Whang/Water-Managment)
 
 
+
+
+
+
 ### ✍️ Some Cool Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
