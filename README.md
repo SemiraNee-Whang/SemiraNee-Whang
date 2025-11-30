@@ -16,16 +16,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SemiraNee-Whang&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiraNee-Whang&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Water Management System - Grade 11 IT PAT
-This is a simulation of a **Water Management System**, developed as part of my Grade 11 Information Technology Practical Assessment Task. It demonstrates skills in:
+# 💧 Water Management System - Grade 11 IT PAT
 
-- SQL database integration
-- Java backend logic
-- Desktop UI development using NetBeans
+This is a **simulation of a Water Management System**, developed as part of my **Grade 11 Information Technology Practical Assessment Task (PAT)**.  
 
-You can view the project on GitHub [here](https://github.com/SemiraNee-Whang/Water-Managment).
+The project demonstrates practical skills in:
 
----
+- **SQL database integration** – storing and retrieving water management data.
+- **Java backend logic** – implementing system functionality.
+- **Desktop UI development using NetBeans** – creating an interactive user interface.
+
+🔗 **View the project on GitHub:** [Water Management System Repository](https://github.com/SemiraNee-Whang/Water-Managment)
+
 
 ### ✍️ Some Cool Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
