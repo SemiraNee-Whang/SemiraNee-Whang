@@ -1,6 +1,6 @@
 # 💫 About Me:
 👩🏽‍🎓 A high school student aspiring to work in Tech and business<br/> <br/> 
-👩🏽‍💻 16-year-old student passionate about coding<br/> <br/> 
+👩🏽‍💻 17-year-old student passionate about coding<br/> <br/> 
 🌹 Learning Java and SQL currently<br/> <br/> 
 🎓 Planning to study Information Systems <br/> <br/> 
 🎥 I'm interested in Data Analysis, Business Analysis and UI/UX Design  <br/><br/> 
